@@ -6,3 +6,16 @@
 body{
     background-color: var(--variable-example);
 }
+
+.hero{
+    background: url(../assets/images/Netflix-Symbol.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 90vh;
+    margin-top: 50px;
+    
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
