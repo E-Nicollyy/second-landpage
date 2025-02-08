@@ -1,0 +1,8 @@
+/* importando global */
+/* utilizando a variavel criada no global para estilização */
+@import url(./global.css);
+
+
+body{
+    background-color: var(--variable-example);
+}
